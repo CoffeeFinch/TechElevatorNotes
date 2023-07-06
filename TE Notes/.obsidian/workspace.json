@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "526fff69f220882b",
+        "id": "0ad80f7c5c82100f",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1.md",
+                "file": "Markdown Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 1.md",
+                "file": "Markdown Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 1.md",
+                "file": "Markdown Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 1.md"
+                "file": "Markdown Reference.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "dae3b0764f7bb5d4",
   "lastOpenFiles": [
-    "Module 1.md"
+    "GIT!.canvas",
+    "Tech Elevator Notes/Module 1/GIT.md",
+    "GIT Repos.canvas",
+    "Tech Elevator Notes/Module 1/BASH & Command Line.md",
+    "Markdown Reference.md",
+    "Tech Elevator Notes/Module 1",
+    "Tech Elevator Notes"
   ]
 }

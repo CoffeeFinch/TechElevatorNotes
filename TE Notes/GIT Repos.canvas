@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"text","text":"Repo1","id":"a69b1052dd5dd7b7","x":-80,"y":-100,"width":80,"height":60},
+		{"type":"text","text":"# GIT Repositories","id":"611e5c90a7287e12","x":-200,"y":-180,"width":320,"height":50},
+		{"type":"text","text":"Repo2","id":"ee5c004d148007c7","x":-200,"y":60,"width":80,"height":60},
+		{"type":"text","text":"Repo3","id":"506eaec6d2fceeff","x":40,"y":60,"width":80,"height":60}
+	],
+	"edges":[
+		{"id":"66cc43c417da7c0f","fromNode":"a69b1052dd5dd7b7","fromSide":"right","toNode":"506eaec6d2fceeff","toSide":"top"},
+		{"id":"ff018dd81cb71f83","fromNode":"a69b1052dd5dd7b7","fromSide":"left","toNode":"ee5c004d148007c7","toSide":"top"},
+		{"id":"a1a5654550909a31","fromNode":"ee5c004d148007c7","fromSide":"right","toNode":"506eaec6d2fceeff","toSide":"left"},
+		{"id":"f0109b94a7974479","fromNode":"506eaec6d2fceeff","fromSide":"left","toNode":"ee5c004d148007c7","toSide":"right"},
+		{"id":"d99ea08b74a87a80","fromNode":"506eaec6d2fceeff","fromSide":"top","toNode":"a69b1052dd5dd7b7","toSide":"right"},
+		{"id":"c5a0f193efa1ba60","fromNode":"ee5c004d148007c7","fromSide":"top","toNode":"a69b1052dd5dd7b7","toSide":"left"}
+	]
+}
